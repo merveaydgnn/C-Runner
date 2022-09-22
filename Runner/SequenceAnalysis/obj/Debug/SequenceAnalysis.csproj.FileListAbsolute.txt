@@ -1,0 +1,6 @@
+C:\Users\Merve Aydoğan\source\repos\Runner\SequenceAnalysis\bin\Debug\SequenceAnalysis.dll
+C:\Users\Merve Aydoğan\source\repos\Runner\SequenceAnalysis\bin\Debug\SequenceAnalysis.pdb
+C:\Users\Merve Aydoğan\source\repos\Runner\SequenceAnalysis\obj\Debug\SequenceAnalysis.csproj.AssemblyReference.cache
+C:\Users\Merve Aydoğan\source\repos\Runner\SequenceAnalysis\obj\Debug\SequenceAnalysis.csproj.CoreCompileInputs.cache
+C:\Users\Merve Aydoğan\source\repos\Runner\SequenceAnalysis\obj\Debug\SequenceAnalysis.dll
+C:\Users\Merve Aydoğan\source\repos\Runner\SequenceAnalysis\obj\Debug\SequenceAnalysis.pdb

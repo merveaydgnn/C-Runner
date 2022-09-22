@@ -1,0 +1,6 @@
+C:\Users\Merve Aydoğan\source\repos\Runner\SumOfMultiple\obj\Debug\SumOfMultiple.csproj.AssemblyReference.cache
+C:\Users\Merve Aydoğan\source\repos\Runner\SumOfMultiple\obj\Debug\SumOfMultiple.csproj.CoreCompileInputs.cache
+C:\Users\Merve Aydoğan\source\repos\Runner\SumOfMultiple\bin\Debug\SumOfMultiple.dll
+C:\Users\Merve Aydoğan\source\repos\Runner\SumOfMultiple\bin\Debug\SumOfMultiple.pdb
+C:\Users\Merve Aydoğan\source\repos\Runner\SumOfMultiple\obj\Debug\SumOfMultiple.dll
+C:\Users\Merve Aydoğan\source\repos\Runner\SumOfMultiple\obj\Debug\SumOfMultiple.pdb
